@@ -1,13 +1,13 @@
 ## PixelMod
-_A 1.17.1 Minecraft Betterment Modpack
-       _Releasing January 2022
+_A 1.17.1 Minecraft Betterment Modpack_
+       _Releasing January 2022_
 
 ## Features-
 1.New Ui And incredible FPS boost
 2.New textures and plugin liabrary
 3.Account System
 4.All removed features added back
-_And much much more....
+_And much much more...._
 
 ## Download-
 
